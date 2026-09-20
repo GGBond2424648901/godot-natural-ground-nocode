@@ -16,7 +16,7 @@
 
 ## 下载和打开
 
-从 [Releases](https://github.com/GGBond2424648901/godot-natural-ground-nocode/releases) 下载 **配套工程 ZIP** 并解压。安装 Godot 4.7.2 后，在项目管理器中导入 `complete/project.godot`，打开 `main.tscn`，按 **F6** 就能看到小场景。
+下载 [配套工程 ZIP](https://github.com/GGBond2424648901/godot-natural-ground-nocode/releases/download/v1.0.0/godot-natural-ground-nocode-v1.0.0.zip) 并解压。安装 Godot 4.7.2 后，在项目管理器中导入 `complete/project.godot`，打开 `main.tscn`，按 **F6** 就能看到小场景。
 
 想自己铺的话，选择左侧的 `Grass` 或 `Path` 图层，在下方 **TileMap → 地形** 里选对应地形，再选 **连接** 笔刷。左键铺、右键擦；补一格、擦一格时，周围的边缘会一起更新。
 
